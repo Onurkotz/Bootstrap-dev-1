@@ -1,0 +1,17 @@
+.logofont {
+    font-family: 'Sarina';
+    font-size: 32px;
+    color: yellow;
+}
+
+.center {
+    text-align: center;
+}
+
+.plogo {
+    font-family: 'Sarina';
+}
+
+.list {
+    list-style-type: none;
+}
