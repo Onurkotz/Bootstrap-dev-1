@@ -17,8 +17,14 @@
 }
 
 .jf1 {
-   font-family: 'Mukta', sans-serif;
+   text-decoration: underline;
    color: white;
+}
+
+.jf2 {
+    font-family: 'Playball', cursive;
+    color: yellow;
+    font-size: 30px;
 }
 
 
@@ -28,4 +34,8 @@
 
 .ul {
     list-style-type: none;
+}
+
+.under {
+    text-decoration: underline;
 }
